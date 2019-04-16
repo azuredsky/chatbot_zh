@@ -1,7 +1,5 @@
 # -*- coding：utf-8 -*-
-# -*- author：zzZ_CMing  CSDN address:https://blog.csdn.net/zzZ_CMing
-# -*- 2018/07/31；14:23
-# -*- python3.5
+
 import sys
 import numpy as np
 import tensorflow as tf
